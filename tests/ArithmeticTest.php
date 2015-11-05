@@ -2,7 +2,7 @@
 /**
  * Arithmeticクラスのユニットテスト
  */
-require_once '../Arithmetic.php';
+require_once './../Arithmetic.php';
 
 class TestArithmetic extends PHPUnit_Framework_TestCase
 {
